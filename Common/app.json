@@ -2,7 +2,7 @@
   "id": "4632ef53-5e69-4c7e-b8d2-52de3fe0d704",
   "name": "Common",
   "publisher": "IBM",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "27.0.0.0",
   "idRanges": [
     {
       "from": 57000,
