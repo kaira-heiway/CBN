@@ -9,10 +9,7 @@ bcptTestResults*.json
 BuildOutput.txt
 rad.json
 .output/
-.dependencies/
 .buildartifacts/
-.alpackages/
-.packages/
 .alcache/
 .altemplates/
 .altestrunner/
